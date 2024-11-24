@@ -1,0 +1,414 @@
+
+/*css media quries for- glaxi fold screen resulation: 279px to 319px */
+@media (min-width: 279px) and (max-width: 319px){
+  /*css start*/
+  .container{
+        width: 95%;
+        float: left;
+    }
+        .row{
+        width: 100%;
+        float: left;
+        padding: 0px 15px;
+    }
+        .col-6{
+        width: 100%;
+        float: left;
+    }
+        .col-12{
+        width:100% ;
+        float: left;
+    }
+      .col-4{
+        width: 100%;
+        float: left;
+    }
+    
+    .header {
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+    border-bottom: 1px solid #eee;
+    text-align: center;
+}
+    .logo{
+      display: block;
+      text-align: center;
+    }
+    .navber{
+      text-align: center;
+    }
+    .navber li a {
+      font-size: 9px;
+      margin: 10px 0px 0px 15px;
+    }
+    .banner{
+      padding: 25px 0px;
+    }
+    .banner h1 {
+      font-size: 24px;
+      line-height: 1.2em;
+    }
+    .banner p {
+      font-size: 9px;
+      line-height: 1.7em;
+    }
+    .banner img {
+      width: 90%;
+    }
+    .sucessful{
+      padding: 0px 0px 25px;
+    }
+    .left-sucess{
+      text-align: left;
+    }
+    .left-sucess h1 {
+      font-size: 24px;
+      line-height: 1.2em;
+    }
+    .left-sucess p {
+      font-size: 9px;
+      line-height: 1.7em;
+    }
+    .right-sucess h1{
+      font-size: 28px;
+      line-height: 1.2em;
+    }
+    .feature{
+      padding: 0px 0px 30px;
+    }
+    .feature-inner{
+      width: 83%;
+      float: left;
+      padding: 25px 25px;
+      margin: 0px 0px 15px;
+    }
+    .feature-inner h4{
+      font-size: 14px;
+      line-height: 1.2em;
+    }
+    .feature-inner p{
+      font-size: 9px;
+      line-height: 1.7em;
+    }
+    .footer p{
+      font-size: 9px;
+      line-height: 1.7em;
+    }
+  /*css end*/
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+
+  .container{
+  	    width: 95%;
+        float: left;
+    }
+        .row{
+        width: 100%;
+        float: left;
+        padding: 0px 15px;
+    }
+        .col-6{
+        width: 100%;
+        float: left;
+    }
+        .col-12{
+        width:100% ;
+        float: left;
+    }
+      .col-4{
+        width: 100%;
+        float: left;
+    }
+    
+    .header {
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+    border-bottom: 1px solid #eee;
+    text-align: center;
+}
+    .logo{
+      display: block;
+      text-align: center;
+    }
+    .navber{
+      text-align: center;
+    }
+    .navber li a {
+      font-size: 11px;
+      margin: 10px 0px 0px 15px;
+    }
+    .banner{
+      padding: 30px 0px;
+    }
+    .banner h1 {
+      font-size: 30px;
+      line-height: 1.2em;
+    }
+    .banner p {
+      font-size: 11px;
+      line-height: 1.7em;
+    }
+    .banner img {
+      width: 90%;
+    }
+    .sucessful{
+      padding: 0px 0px 30px;
+    }
+    .left-sucess{
+      text-align: left;
+    }
+    .left-sucess h1 {
+      font-size: 30px;
+      line-height: 1.2em;
+    }
+    .left-sucess p {
+      font-size: 11px;
+      line-height: 1.7em;
+    }
+    .right-sucess h1{
+      font-size: 30px;
+      line-height: 1.2em;
+    }
+    .feature{
+      padding: 0px 0px 30px;
+    }
+    .feature-inner{
+      width: 90%;
+      float: left;
+      padding: 40px 25px;
+      margin: 0px 0px 15px;
+    }
+    .feature-inner h4{
+      font-size: 16px;
+      line-height: 1.2em;
+    }
+    .feature-inner p{
+      font-size: 11px;
+      line-height: 1.7em;
+    }
+    .footer p{
+      font-size: 11px;
+      line-height: 1.7em;
+    }
+
+  /* CSS end*/
+
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS start*/
+  .container{
+        width: 95%;
+        float: left;
+    }
+        .row{
+        width: 100%;
+        float: left;
+        padding: 0px 15px;
+    }
+        .col-6{
+        width: 100%;
+        float: left;
+    }
+        .col-12{
+        width:100% ;
+        float: left;
+    }
+      .col-4{
+        width: 100%;
+        float: left;
+    }
+    
+    .header {
+    width: 100%;
+    float: left;
+    padding: 15px 0px;
+    border-bottom: 1px solid #eee;
+    text-align: center;
+}
+    .logo{
+      display: block;
+      text-align: center;
+    }
+    .navber{
+      text-align: center;
+    }
+    .navber li a {
+      font-size: 11px;
+      margin: 10px 0px 0px 15px;
+    }
+    .banner{
+      padding: 35px 0px;
+    }
+    .banner h1 {
+      font-size: 32px;
+      line-height: 1.2em;
+    }
+    .banner p {
+      font-size: 12px;
+      line-height: 1.7em;
+    }
+    .banner img {
+      width: 90%;
+    }
+    .sucessful{
+      padding: 0px 0px 35px;
+    }
+    .left-sucess{
+      text-align: left;
+    }
+    .left-sucess h1 {
+      font-size: 32px;
+      line-height: 1.2em;
+    }
+    .left-sucess p {
+      font-size: 12px;
+      line-height: 1.7em;
+    }
+    .right-sucess h1{
+      font-size: 32px;
+      line-height: 1.2em;
+    }
+    .feature{
+      padding: 0px 0px 35px;
+    }
+    .feature-inner{
+      width: 90%;
+      float: left;
+      padding: 45px 30px;
+      margin: 0px 0px 15px;
+    }
+    .feature-inner h4{
+      font-size: 18px;
+      line-height: 1.2em;
+    }
+    .feature-inner p{
+      font-size: 12px;
+      line-height: 1.7em;
+    }
+    .footer p{
+      font-size: 12px;
+      line-height: 1.7em;
+    }
+    /* CSS end*/
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  .container{
+        width: 95%;
+        float: left;
+    }
+        .row{
+        width: 100%;
+        float: left;
+        padding: 0px 20px;
+    }
+        .col-6{
+        width: 100%;
+        float: left;
+    }
+        .col-12{
+        width:100% ;
+        float: left;
+    }
+      .col-4{
+        width: 100%;
+        float: left;
+    }
+    
+    .header {
+    width: 100%;
+    float: left;
+    padding: 20px 0px;
+    border-bottom: 1px solid #eee;
+    text-align: center;
+}
+    .logo{
+      display: block;
+      text-align: center;
+    }
+    .navber{
+      text-align: center;
+    }
+    .navber li a {
+      font-size: 11px;
+      margin: 10px 0px 0px 15px;
+    }
+    .banner{
+      padding: 40px 0px;
+    }
+    .banner h1 {
+      font-size: 34px;
+      line-height: 1.2em;
+    }
+    .banner p {
+      font-size: 13px;
+      line-height: 1.7em;
+    }
+    .banner img {
+      width: 90%;
+    }
+    .sucessful{
+      padding: 0px 0px 40px;
+    }
+    .left-sucess{
+      text-align: left;
+    }
+    .left-sucess h1 {
+      font-size: 34px;
+      line-height: 1.2em;
+    }
+    .left-sucess p {
+      font-size: 14px;
+      line-height: 1.7em;
+    }
+    .right-sucess h1{
+      font-size: 34px;
+      line-height: 1.2em;
+    }
+    .feature{
+      padding: 0px 0px 40px;
+    }
+    .feature-inner{
+      width: 98%;
+      float: left;
+      padding: 45px 30px;
+      margin: 0px 0px 15px;
+    }
+    .feature-inner h4{
+      font-size: 18px;
+      line-height: 1.2em;
+    }
+    .feature-inner p{
+      font-size: 13px;
+      line-height: 1.7em;
+    }
+    .footer p{
+      font-size: 13px;
+      line-height: 1.7em;
+    }
+  /* CSS end */
+}

@@ -1,0 +1,218 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+.body{
+font-family: "Poppins", sans-serif;
+font-size:14px ;
+line-height:24px;
+}
+h1, h2, h3, h4, h5, h6{
+font-family: "Poppins", sans-serif;
+}
+a, a:hover{
+text-decoration: none;
+}
+/*global css start here--*/
+.container{
+width: 1140px;
+margin: 0px auto;
+}
+.row{
+width: 100%;
+float: left;
+}
+.col-6{
+width: 50%;
+float: left;
+}
+.col-12{
+width:100% ;
+float: left;
+}
+.col-4{
+width: 33.33%;
+float: left;
+}
+/*global css End here--*/
+.header{
+width: 100%;
+float: left;
+padding:10px 0px ;
+border-bottom: 1px solid #eee;
+}
+.logo{
+display:block ;
+}
+.navber{
+width: 100%;
+float:left;
+text-align: right;
+}
+.navber li{
+list-style: none;
+display: inline-block;
+}
+.navber li a{
+display: block;
+font-size: 14px;
+line-height: 24px;
+text-transform: capitalize;
+color:#0B2253;
+margin:10px 0px 0px 35px;
+}
+.banner{
+width: 100%;
+float: left;
+padding: 80px 0px;
+text-align: center;
+}
+.banner h1{
+font-size: 60px;
+line-height: 70px;
+color: #0B2253;
+margin: 0px 0px 10px;
+}
+.banner h1 span{
+color: #008AFF;
+}
+.banner p{
+font-size: 14px;
+line-height: 24px;
+color: #0B2253;
+margin: 0px 0px 10px;
+}
+.banner img{
+width: 70%;
+}
+.sucessful{
+width: 100%;
+float: left;
+padding: 0px 0px 80px;
+}
+.left-sucess{
+width: 95%;
+float: left;
+text-align: right;
+margin: 0px 15px;
+}
+.left-sucess h1{
+font-size: 60px;
+line-height: 70px;
+color: #F15565;
+margin: 0px 0px 10px;
+}
+.left-sucess p{
+font-size: 14px;
+line-height: 24px;
+color: #0B2253;
+margin: 0px 0px 10px;
+}
+.right-sucess{
+width: 95%;
+float: left;
+margin: 0px 15px;
+}
+.right-sucess h1{
+font-size: 60px;
+line-height: 70px;
+color: #0B2253;
+margin: 0px 0px 10px;
+}
+.feature{
+width: 100%;
+float: left;
+padding: 0px 0px 80px;
+}
+.feature-inner{
+width: 80%;
+float: left;
+padding: 40px 25px;
+}
+.feature-inner img{
+width: 100%;
+height: 225px;
+margin: 0px 10px;
+}
+.feature-inner h4{
+font-size: 22px;
+line-height: 32px;
+color: #0B2253;
+margin: 0px 0px 10px;
+text-align: center;
+}
+.feature-inner p{
+font-size: 14px;
+line-height: 24px;
+color: #0B2253;
+margin: 0px 0px 10px;
+text-align: center;
+}
+.bg-1{
+background: #FDEBED;
+}
+.bg-2{
+background: #EBF9F4;
+}
+.bg-3{
+background: #FFF7E8;
+}
+
+/*landing page css start*/
+.intro{
+  width: 100%;
+  float: left;
+  padding: 80px 0px;
+  background: #eee;
+}
+/*landing page css end*/
+
+/*Blog page css start*/
+.blog h2{
+  width: 100%;
+  float: left;
+  padding: 80px 0px;
+  background: #eee;
+  text-align: center;
+}
+.form-contol{
+  width: 50%;
+  padding: 5px 5px;
+  height: 10px;
+  background: #fff;
+
+}
+.form{
+  margin: 50px 50px;
+}
+
+.mb-3{
+  margin: 50px 50px;
+}
+/*blog page css end*/
+.login{
+  width: 100%;
+  float: left;
+  margin: 50px 50px;
+  background: #eee;
+  padding: 80px 0px;
+}
+/*landing page css end*/
+
+.footer{
+width: 100%;
+float: left;
+padding: 25px 0px;
+background: #008AFF;
+}
+.footer p{
+text-align: center;
+font-size: 14px;
+line-height: 24px;
+color: #fff;
+}
+.footer p span{
+font-weight: 600;
+text-transform: uppercase ;
+letter-spacing: 3px;
+}
